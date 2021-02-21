@@ -1,7 +1,7 @@
 /node_modules/
 /.idea
-/index.js
 /.history
 /box.dat
 /CookieSet.json
-serverless.yml
+/jdCookie.js
+/logs
