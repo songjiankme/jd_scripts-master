@@ -6,7 +6,7 @@ name: jd_plantBean
 on:
   workflow_dispatch:
   schedule:
-    - cron: '0 23,0-14/1 * * *' #此处为UTC-0时间
+    - cron: '1 7-21/2 * * *' #此处为UTC-0时间
   watch:
     types: started
   repository_dispatch:
